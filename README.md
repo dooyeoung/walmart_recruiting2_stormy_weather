@@ -50,7 +50,7 @@ The sales data does not capture the difference between the stock and the demand.
 - noaa_weather_qclcd_documentation.pdf - a guide to understand the data provided in the weather.csv file
 
 
-### Result
+## Result
 - Store별로 모델을 만들어 분석 진행
 - 날씨의 영향을 거의 받지 않는다 그러므로 회귀분석은 적용하기 힘들다
 - 시계열분석으로 접근해야한다. 
